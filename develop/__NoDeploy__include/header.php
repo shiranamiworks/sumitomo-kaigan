@@ -5,22 +5,22 @@
 <?php
 $site_setting = array(
   "area" => "shuto",
-  "prop" => "shimomaruko",
-  "tel_link" => "tel:0120112507",
+  "prop" => "kaigan",
+  "tel_link" => "tel:0120366433",
   "meta_link" => "https://www.sumitomo-rd-mansion.jp/gallery/",
   "requested_only" => "#requested_only",
 );
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティテラス下丸子,大田区 マンション,大田区 新築マンション,下丸子,鵜の木駅,東急多摩川線,大田区,マンション,新築マンション,分譲マンション,住友不動産">
-<meta name="description" content="<?= $page_settings["description"] ?>東急多摩川線「鵜の木駅」まで徒歩7分。住友不動産の新築マンションが下丸子に誕生。【すみふ下丸子】大田区のマンションなら住友不動産。">
-<title><?= $page_settings["title"] ?>【公式】シティテラス下丸子｜大田区の新築マンション｜住友不動産</title>
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー,港区 マンション,港区 新築マンション,下丸子,鵜の木駅,東急多摩川線,港区,マンション,新築マンション,分譲マンション,住友不動産">
+<meta name="description" content="<?= $page_settings["description"] ?>東急多摩川線「鵜の木駅」まで徒歩7分。住友不動産の新築マンションが下丸子に誕生。【すみふ下丸子】港区のマンションなら住友不動産。">
+<title><?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜港区の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
-<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティテラス下丸子｜大田区の新築マンション｜住友不動産">
-<meta property="og:description" content="<?= $page_settings["description"] ?>東急多摩川線「鵜の木駅」まで徒歩7分。住友不動産の新築マンションが下丸子に誕生。【すみふ下丸子】大田区のマンションなら住友不動産。">
-<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティテラス下丸子｜大田区の新築マンション｜住友不動産">
+<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜港区の新築マンション｜住友不動産">
+<meta property="og:description" content="<?= $page_settings["description"] ?>東急多摩川線「鵜の木駅」まで徒歩7分。住友不動産の新築マンションが下丸子に誕生。【すみふ下丸子】港区のマンションなら住友不動産。">
+<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜港区の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
@@ -76,11 +76,11 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     <h1 class="header-logo">
       <a href="index.html">
         <figure><img src="<?= $page_settings["directory_pos"]  ?>images/common/logo-pc.png" alt=""></figure>
-        <p>鵜の木駅徒歩7分｜シティテラス下丸子｜大田区 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ下丸子｜住友不動産</p>
+        <p>鵜の木駅徒歩7分｜CITY TOWER THE RAINBOW｜港区 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ下丸子｜住友不動産</p>
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">
-               <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=shimomaruko&LINK=header"></script>
+               <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=kaigan&LINK=header"></script>
                     <div id="sp-menu-btn" class="hamburger">
                         <p>MENU</p>
                         <div class="menu-trigger">
@@ -124,9 +124,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>
             <div class="sub-menu">
-              <a href="<?= $page_settings["directory_pos"]  ?>location01.html">多彩な都市機能に近接</a>
-              <a href="<?= $page_settings["directory_pos"]  ?>location02.html">豊かな自然の潤いを身近に</a>
-              <a href="<?= $page_settings["directory_pos"]  ?>location03.html" class="finish">毎日を支える充実の利便施設</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>location01.html">人生を解き放つシーサイド</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>location02.html" class="finish">進化するアーバンステージ</a>
             </div>
           </li>
           <li>
@@ -136,18 +135,18 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       </nav>
       <div class="header-menu-right">
         <ul class="header-menu-btn">
-          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=shimomaruko&LINK=header-menu"></script>
+          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=kaigan&LINK=header-menu"></script>
         </ul>
         <div class="header-menu-other">
           <ul>
             <li><a href="map.html" target="_blank">現地案内図</a></li>
-            <li><a href="/shuto/shimomaruko/faq.cgi" target="_blank">FAQ</a></li>
+            <li><a href="/shuto/kaigan/faq.cgi" target="_blank">FAQ</a></li>
             <li><a href="javascript:outline();">物件概要</a></li>
             <li><p>マンション情報ブログ</p></li>
           </ul>
           <div class="header-sns">
-            <a href="https://twitter.com/shimomaruko" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-            <a href="https://www.instagram.com/shimomaruko" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+            <a href="https://twitter.com/kaigan" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com/kaigan" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
@@ -169,13 +168,13 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
         <li><p href="javascript:blog();">マンション情報ブログ</p></li>
-        <li><a href="/shuto/shimomaruko/faq.cgi" target="_blank">FAQ</a></li>
-        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=shimomaruko&LINK=sp-menu"></script>
+        <li><a href="/shuto/kaigan/faq.cgi" target="_blank">FAQ</a></li>
+        <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=kaigan&LINK=sp-menu"></script>
       </ul>
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">
-      <a href="https://twitter.com/shimomaruko" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-       <a href="https://www.instagram.com/shimomaruko" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+      <a href="https://twitter.com/kaigan" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
+       <a href="https://www.instagram.com/kaigan" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
     </div>
   </div><!--//sp-menu -->
 </header>
