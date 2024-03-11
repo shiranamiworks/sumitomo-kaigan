@@ -13,7 +13,7 @@ $(function () {
             parseInt($(this).css("padding-right"));
           var pos = w / 2 - ww / 2;
           if ($(this).hasClass("right-start")) {
-            pos = w / 2 - w / 3;
+            pos = w / 2 - w / 7;
           }
           $(this).animate({ scrollLeft: pos }, 30);
         });

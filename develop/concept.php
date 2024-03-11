@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティテラス下丸子　トップ</a></li>
+      <li><a href="./index.html">CITY TOWER THE RAINBOW　海岸 新築マンション｜トップ</a></li>
       <li><p>コンセプト</p></li>
     </ul>
   </div>
@@ -29,20 +29,13 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/concept/mv.jpg" alt=""><p class="annotation white">航空写真</p></div>
+   <div class="image"><img src="./images/concept/mv.jpg" alt=""><p class="annotation white">レインボーブリッジ（約430m／徒歩6分）</p></div>
   </header><!-- main-visual -->
-
-  
-  <section class="intro sections clearfix">
-    <div class="inner">
-      <p class="text">進化する都心を身近に感じながら、<br class="pc">多摩川の水辺に連なる自然を享受する。<br>街の新たな象徴となる美しい佇まいに誇りを抱きながら、<br class="pc">洗練された共用空間とゆとりの住空間に癒される。<br>総敷地面積8,200㎡超、全233邸「シティテラス下丸子」。<br>思い描いていた日々を、今ここに。</p>
-      </div>
-  </section><!-- intro -->
 
 
 
 <div class="annotation-area">
-<p class="page-annotation js-scroll wrap clearfix">※掲載の航空写真は川崎市中原区上平間付近上空から北方面を撮影（2023年8月）したものに現地部分の光などＣＧ合成・加工をしたものです。また、周辺環境は将来変わる場合があります。<br>※1.掲載の距離圏は現地から地図上の概測直線距離です。</p></div>
+<p class="page-annotation js-scroll wrap clearfix">※港区台場付近から北西方面を撮影（2023年12月）したものに現地部分の光などＣＧ合成・加工をしたものです。また、周辺環境は将来変わる場合があります。</p></div>
 </main>
 
 <?php require(INCLUDES."footer.php"); ?>

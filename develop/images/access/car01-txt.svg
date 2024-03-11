@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334.98 71.51">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .08em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 11.3px;
+      }
+
+      .cls-2 {
+        letter-spacing: .2em;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #231815;
+        font-family: YuMinPr6N-Regular-83pv-RKSJ-H, 'Yu Mincho Pr6N';
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        font-size: 18.08px;
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <rect class="cls-5" width="118.39" height="33.26"/>
+    <rect class="cls-5" x="122.98" width="212" height="33.26"/>
+    <text class="cls-2" transform="translate(33.21 22.66)"><tspan x="0" y="0">通常料金</tspan></text>
+    <text class="cls-4" transform="translate(178.09 22.66)"><tspan class="cls-1" x="0" y="0">日</tspan><tspan class="cls-3" x="12.24" y="0">中約</tspan><tspan class="cls-6" x="37.09" y="0">1,600</tspan><tspan class="cls-3" x="90.26" y="0">円</tspan></text>
+    <rect class="cls-5" y="38.24" width="118.39" height="33.26"/>
+    <rect class="cls-5" x="122.98" y="38.24" width="212" height="33.26"/>
+    <text class="cls-2" transform="translate(33.21 60.9)"><tspan x="0" y="0">深夜料金</tspan></text>
+    <text class="cls-4" transform="translate(178.1 60.9)"><tspan class="cls-3" x="0" y="0">概算約</tspan><tspan class="cls-6" x="37.29" y="0">1,900</tspan><tspan class="cls-3" x="90.45" y="0">円</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215 74.25">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 15.94px;
+      }
+
+      .cls-1, .cls-4, .cls-3, .cls-5 {
+        fill: #231815;
+        font-family: YuMinPr6N-Regular-83pv-RKSJ-H, 'Yu Mincho Pr6N';
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-7 {
+        letter-spacing: .02em;
+      }
+
+      .cls-8, .cls-2, .cls-3 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: .3px;
+      }
+
+      .cls-10 {
+        letter-spacing: -.48em;
+      }
+
+      .cls-10, .cls-11 {
+        font-size: 9.44px;
+      }
+
+      .cls-12 {
+        font-size: 27.51px;
+        letter-spacing: .02em;
+      }
+
+      .cls-11 {
+        letter-spacing: .02em;
+      }
+
+      .cls-13 {
+        letter-spacing: .05em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.47em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.48em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.47em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        font-size: 8.5px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-5" transform="translate(-4.25 45.16)"><tspan class="cls-7" x="0" y="0">［通勤時</tspan><tspan class="cls-15" x="34.85" y="0">］</tspan><tspan class="cls-7" x="39.31" y="0">JR山手線利用</tspan><tspan class="cls-17" x="0" y="13">［</tspan><tspan class="cls-7" x="8.37" y="13">平常時</tspan><tspan class="cls-16" x="34.51" y="13">］</tspan><tspan class="cls-7" x="38.97" y="13">JR京浜東北線快速利用</tspan></text>
+    <text class="cls-1" transform="translate(-7.74 23.15)"><tspan class="cls-8" x="0" y="0">「東京</tspan><tspan class="cls-14" x="49" y="0">」</tspan><tspan class="cls-6" x="57.37" y="0">駅</tspan><tspan class="cls-13" x="73.69" y="0">へ</tspan></text>
+    <text class="cls-3" transform="translate(122.69 23.15)"><tspan x="0" y="0">直通</tspan></text>
+    <text class="cls-4" transform="translate(158.36 24.21)"><tspan class="cls-12" x="0" y="0">9</tspan><tspan class="cls-2" x="15.6" y="-1.44">分</tspan><tspan class="cls-11" x="27.21" y="-1.55">（7分</tspan><tspan class="cls-10" x="51.92" y="-1.55">）</tspan></text>
+    <line class="cls-9" x1=".22" y1="30.13" x2="214.43" y2="30.13"/>
+  </g>
+</svg>

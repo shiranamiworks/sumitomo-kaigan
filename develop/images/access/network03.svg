@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214.21 43.07">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 15.94px;
+      }
+
+      .cls-1, .cls-4, .cls-3, .cls-5 {
+        fill: #231815;
+        font-family: YuMinPr6N-Regular-83pv-RKSJ-H, 'Yu Mincho Pr6N';
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-7 {
+        letter-spacing: .02em;
+      }
+
+      .cls-8, .cls-2, .cls-3 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9 {
+        font-size: 23px;
+        letter-spacing: .03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: .01em;
+      }
+
+      .cls-12 {
+        letter-spacing: .05em;
+      }
+
+      .cls-13 {
+        fill: none;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: .41px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.47em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.47em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 8.5px;
+      }
+
+      .cls-17 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-5" transform="translate(.5 34.24)"><tspan class="cls-7" x="0" y="0">JR東海道新幹</tspan><tspan class="cls-17" x="52.93" y="0">線</tspan><tspan class="cls-10" x="61.54" y="0">の</tspan><tspan class="cls-16" x="69.84" y="0">ぞ</tspan><tspan class="cls-11" x="78.34" y="0">み</tspan><tspan class="cls-7" x="86.93" y="0">利用</tspan></text>
+    <text class="cls-5" transform="translate(159.45 34.24)"><tspan class="cls-7" x="0" y="0">（直通140分</tspan><tspan class="cls-15" x="49.31" y="0">）</tspan></text>
+    <text class="cls-1" transform="translate(-7.97 19.18)"><tspan class="cls-8" x="0" y="0">「新大阪</tspan><tspan class="cls-14" x="65.34" y="0">」</tspan><tspan class="cls-6" x="73.71" y="0">駅</tspan><tspan class="cls-12" x="90.03" y="0">へ</tspan></text>
+    <text class="cls-3" transform="translate(126.28 19.18)"><tspan x="0" y="0">直通</tspan></text>
+    <text class="cls-4" transform="translate(159.15 20.24)"><tspan class="cls-9" x="0" y="0">137</tspan><tspan class="cls-2" x="39.12" y=".27">分</tspan></text>
+    <line class="cls-13" y1="42.86" x2="214.21" y2="42.86"/>
+  </g>
+</svg>
