@@ -5,13 +5,13 @@
   "gnav_set" => "location",
   "page_class" => "location01",
   "url" => "location01.html",
-  "title" => "多彩な都市機能に近接｜",
-  "keywords" => "多彩な都市機能に近接,",
-  "description" => "多彩な都市機能に近接ページ。",
+  "title" => "人生を解き放つシーサイド｜",
+  "keywords" => "人生を解き放つシーサイド,",
+  "description" => "人生を解き放つシーサイドページ。",
   "add_stylesheet" => ["css/location.css","css/location01.css"],
   "add_script" =>  ["js/location.js"],
   "canonical_page_id" => "location", 
-  "logo_text" => "多彩な都市機能に近接｜"
+  "logo_text" => "人生を解き放つシーサイド｜"
 );
 ?>
 
@@ -21,39 +21,45 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティテラス下丸子　トップ</a></li>
+      <li><a href="./index.html">CITY TOWER THE RAINBOW　海岸 新築マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
-      <li><p>多彩な都市機能に近接</p></li>
+      <li><p>人生を解き放つシーサイド</p></li>
     </ul>
   </div>
 	<!--// パンくずリスト -->
 
-  <div class="location-link location-link--3">
-    <a href="location01.html" class="current"><p>多彩な都市機能に近接</p></a>
-    <a href="location02.html"><p>豊かな自然の潤いを身近に</p></a>
-    <a href="location03.html"><p>毎日を支える充実の利便施設</p></a>
+  <div class="location-link location-link--2">
+    <a href="location01.html" class="current"><p>人生を解き放つシーサイド</p></a>
+    <a href="location02.html"><p>進化するアーバンステージ</p></a>
   </div>
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location01/mv.jpg" alt="" class="pc"><img src="./images/location01/mv-sp.jpg" alt="" class="tb"><p class="annotation white">image photo</p></div>
+   <div class="image"><img src="./images/location01/mv.png" alt="" class="pc"><img src="./images/location01/mv-sp.png" alt="" class="tb"><p class="annotation">レインボーブリッジ（約430m／徒歩6分）</p></div>
+   <div class="bg">
+      <div class="wrap">
+      <p class="tit">LOCATION</p>
+      <p class="text">穏やかな海辺から広がる日々</p>
+      <p class="lead">穏やかな海辺に安らぎながら、煌めく都心の恵みを思いのままに味わい尽くす日々。<br>普段の日も特別な日も充実する羨望のロケーションがここにあります。</p>
+      </div>
+    </div>
   </header><!-- main-visual -->
 
 
   <section class="intro sections clearfix">
+    <div class="image img01">
+      <img src="./images/location01/intro01.jpg" alt="" class="pc">
+      <img src="./images/location01/intro01-sp.jpg" alt="" class="sp">
+      <p class="annotation white">芝浦南ふ頭公園（約480m／徒歩6分）</p>
+    </div>
+    <div class="image img02">
+      <img src="./images/location01/intro02.jpg" alt="" class="pc">
+      <img src="./images/location01/intro02-sp.jpg" alt="" class="sp">
+      <p class="annotation white">芝浦南ふ頭公園（約480m／徒歩6分）</p>
+    </div>
     <div class="inner">
-      <p class="tit">品川・羽田へ軽快。多彩なエリアが身近に。</p>
-      <p class="lead">国内外への広域アクセスに便利な交通拠点、品川・羽田を快適に利用できる「シティテラス下丸子」。休日のショッピングやレジャースポットとして人気の自由が丘や二子玉川をはじめ、魅力あふれる多彩なエリアも身近なポジションです。</p>
-      <div class="image img01">
-        <figure class="pc">
-          <img src="./images/location01/intro01.jpg" alt="" class="pc">
-        </figure>
-        <figure class="zoomImg tb">
-          <img src="./images/location01/intro01.jpg" alt="" class="zoomImg tb">
-        </figure>
-        <p class="annotation">広域エリア概念図</p>
-      </div>
-      <p class="mini">※1.高輪ゲートウェイシティ〈仮称〉（2025年度開業予定）　出典：東日本旅客鉄道株式会社ニュースリリース（2022年4月21日付）※2.リニア中央新幹線（品川・名古屋間：2027年開業予定、品川・大阪間：2045年開業予定※一部区間の工事遅延により遅れる見通しがあります。） 出典：国土交通省ホームぺージ、JR東海ホームぺージ（2023年6月現在）※3.羽田空港アクセス線〈仮称〉（2031年度開業予定）　出典：東日本旅客鉄道株式会社ニュースリリース（2023年4月4日付）</p>
+
+
     </div>
   </section><!-- intro -->
 
@@ -284,13 +290,12 @@
 
 
 <div class="annotation-area">
-<p class="page-annotation js-scroll wrap clearfix">凡例）A:エアーズコート（グランドエントランス）、B:ブリーズコート（ノースエントランス）<br>※1. 東急多摩川線「下丸子」駅（蒲田方面出入口）までA:徒歩9分／ B: 徒歩10分<br>※2. 東急多摩川線「鵜の木」駅（多摩川方面出入口）までA:徒歩8分／ B: 徒歩7分<br>※掲載の広域エリア概念図は一般道路、線路、施設等を抜粋して表記しています。<br>※掲載の電車所要時間は待ち時間・乗り換え時間を含んだ通勤時（カッコ内は平常時）の目安であり、時間帯により多少異なります。<br>※掲載の距離表示は地図上の概測距離です。<br>※掲載の環境写真は2023年7月に撮影。<br>※店舗・施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年7月現在のものです。</p></div>
+<p class="page-annotation js-scroll wrap clearfix">※1.都営三田線・浅草線「三田」駅A7出口徒歩19分。公園ルートの場合（イベント実施時除く）であり、公道ルートの場合はA4出口徒歩22分。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。<br>※掲載の環境写真は2023年12月に撮影。<br>※店舗・施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年12月現在のものです。</p></div>
 </main>
 
-  <div class="location-link location-link--3">
-    <a href="location01.html" class="current"><p>多彩な都市機能に近接</p></a>
-    <a href="location02.html"><p>豊かな自然の潤いを身近に</p></a>
-    <a href="location03.html"><p>毎日を支える充実の利便施設</p></a>
+  <div class="location-link location-link--2">
+    <a href="location01.html" class="current"><p>人生を解き放つシーサイド</p></a>
+    <a href="location02.html"><p>進化するアーバンステージ</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>
