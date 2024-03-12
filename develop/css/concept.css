@@ -118,10 +118,15 @@
     bottom: 40px;
   }
   #concept .intro {
-    padding: 60px 0 0;
+    padding: 60px 20px 0;
   }
-  #concept .intro .text {
+  #concept .intro .title {
+    font-size: 22px;
+    line-height: 2.2;
+    margin-bottom: 40px;
+  }
+  #concept .intro .lead {
     font-size: 16px;
-    margin-bottom: 60px;
+    line-height: 2.2;
   }
 }/*# sourceMappingURL=concept.css.map */

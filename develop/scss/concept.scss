@@ -127,10 +127,15 @@
       }
     }
     .intro {
-      padding: 60px 0 0;
-      .text {
+      padding: 60px 20px 0;
+      .title {
+        font-size: 22px;
+        line-height: 2.2;
+        margin-bottom: 40px;
+      }
+      .lead {
         font-size: 16px;
-        margin-bottom: 60px;
+        line-height: 2.2;
       }
     } //intro
   } //sp

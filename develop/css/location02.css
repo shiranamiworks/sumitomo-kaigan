@@ -79,13 +79,10 @@
   font-family: "Noto Sans JP", sans-serif;
 }
 .location02 .main-visual {
-  position: relative;
-  display: inline-block;
   border: none;
 }
 .location02 .main-visual .image {
-  position: relative;
-  display: inline-block;
+  line-height: 0;
 }
 .location02 .sections .inner {
   margin: 0 auto;

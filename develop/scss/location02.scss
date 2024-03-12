@@ -80,12 +80,13 @@
   }
 
   .main-visual {
-    position: relative;
-    display: inline-block;
+    // position: relative;
+    // display: inline-block;
     border: none;
     .image {
-      position: relative;
-      display: inline-block;
+      // position: relative;
+      // display: inline-block;
+      line-height: 0;
     }
   }
   .sections {

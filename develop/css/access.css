@@ -83,14 +83,11 @@
   font-family: "Noto Sans JP", sans-serif;
 }
 #access .main-visual {
-  position: relative;
-  display: inline-block;
   padding-bottom: 100px;
   border: none;
 }
 #access .main-visual .image {
-  position: relative;
-  display: inline-block;
+  line-height: 0;
 }
 #access .main-visual .bg {
   text-align: center;
@@ -185,6 +182,9 @@
   max-width: 1000px;
   margin: 0 auto 60px;
 }
+#access .intro .column03.list02 li .image img {
+  width: 100%;
+}
 #access .network {
   text-align: center;
   max-width: 1200px;
@@ -208,6 +208,9 @@
   margin-bottom: 10px;
   border-bottom: 1px solid;
 }
+#access .network .txt img {
+  width: 100%;
+}
 #access .network .img02 {
   max-width: 290px;
   width: 56%;
@@ -221,6 +224,9 @@
 }
 #access .network .column03 .txt-img {
   margin-top: 10px;
+}
+#access .network .column03 .txt-img img {
+  width: 100%;
 }
 #access .other {
   text-align: center;

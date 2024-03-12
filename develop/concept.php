@@ -29,9 +29,13 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/concept/mv.jpg" alt=""><p class="annotation white">レインボーブリッジ（約430m／徒歩6分）</p></div>
+   <div class="image"><img src="./images/concept/mv.jpg" alt="" class="pc"><img src="./images/concept/mv-sp.jpg" alt="" class="tb"><p class="annotation white">レインボーブリッジ（約430m／徒歩6分）</p></div>
   </header><!-- main-visual -->
 
+  <div class="intro">
+    <p class="title tb">都心の穏やかなシーサイドに、<br>かけがえのない風景と暮らす天空のオアシスを。</p>
+    <p class="lead tb">港区の湾岸エリアの一角を成す海岸三丁目。<br>そこはまるで都心のオアシスのよう。<br>上質な暮らし心地をもたらす穏やかな海辺に、<br class="pc">新たなランドマークとなる大規模タワーレジデンスが姿を現す。<br>海と空とレインボーブリッジが美しい湾岸の景。<br>かけがえのない安らぎに包まれて、<br class="pc">今、人生の彩りが深まっていく。</p>
+  </div>
 
 
 <div class="annotation-area">
