@@ -81,27 +81,15 @@
 .location02 .main-visual {
   position: relative;
   display: inline-block;
-  padding-bottom: 300px;
   border: none;
 }
 .location02 .main-visual .image {
   position: relative;
   display: inline-block;
 }
-.location02 .main-visual .image::after {
-  content: "";
-  position: absolute;
-  bottom: -217px;
-  left: 0;
-  right: 0;
-  width: 1px;
-  height: 220px;
-  margin: auto;
-  background-color: #000;
-}
 .location02 .sections .inner {
   margin: 0 auto;
-  width: 84%;
+  width: 90%;
   max-width: 1200px;
 }
 .location02 .sections .image {
@@ -133,194 +121,192 @@
 }
 .location02 .intro {
   text-align: center;
+  background: url(../images/location02/bg.jpg);
+  background-size: cover;
+  padding: 100px 0;
   margin-bottom: 100px;
 }
 .location02 .intro .tit {
-  font-size: 36px;
+  font-size: 32px;
   line-height: 2;
+  margin-bottom: 50px;
 }
-.location02 .areas {
-  margin-bottom: 120px;
+.location02 .intro .lead {
+  font-size: 18px;
+  line-height: 2.2;
+  margin-bottom: 100px;
 }
-.location02 .areas .caps {
+.location02 .intro .caps {
   text-align: right;
   margin-top: 10px;
   font-size: 10px;
-  line-height: 1.6;
 }
-.location02 .areas .img00 {
+.location02 .intro .img02 {
+  margin-top: 60px;
+}
+.location02 .intro .mini {
+  text-align: left;
+  margin-top: 10px;
+  font-size: 10px;
+}
+.location02 .areas {
+  text-align: center;
   margin-bottom: 80px;
 }
-.location02 .areas .text {
-  font-size: 27px;
+.location02 .areas .tit {
+  font-size: 26px;
   line-height: 1.6;
   margin-bottom: 40px;
 }
 .location02 .areas .lead {
-  font-size: 18px;
-  line-height: 1.8;
-  margin-bottom: 40px;
+  font-size: 16px;
+  line-height: 2;
+  margin-bottom: 100px;
 }
-.location02 .areas .box {
-  background: #ddf0f3;
-  padding: 20px;
-  box-sizing: border-box;
-  margin-bottom: 40px;
+.location02 .area01 .tit {
+  letter-spacing: 0.3em;
 }
-.location02 .area01 .column02 .bottom {
-  margin-bottom: 25px;
+.location02 .area01 .text {
+  font-size: 32px;
+  line-height: 2;
+  margin-bottom: 50px;
 }
-.location02 .area01 .txt01 {
-  font-size: 24px;
-  margin: 20px 0;
-  padding-left: 10px;
-  border-left: 5px solid #1c2c5a;
+.location02 .area01 .img02 {
+  max-width: 480px;
+  width: 40%;
+  position: absolute;
+  right: -5%;
+  bottom: 10%;
 }
-.location02 .area01 .txt02 {
+.location02 .area01 .img02 .annotation {
+  bottom: 30px;
+  right: 20px;
+}
+.location02 .area02 {
+  max-width: 1200px;
+  margin: auto;
+  background: url(../images/location02/area02-bg.jpg);
+  background-size: cover;
+  padding: 80px 0 40px;
+  margin-bottom: 100px;
+}
+.location02 .area02 .column02 {
+  margin-bottom: 50px;
+}
+.location02 .area02 .column02 li {
+  vertical-align: bottom;
+  text-align: left;
+}
+.location02 .area02 .name {
+  font-size: 30px;
+  color: #5d5200;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+}
+.location02 .area02 .purpose {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-bottom: 30px;
+}
+.location02 .area02 .info {
   font-size: 18px;
   line-height: 1.8;
   margin-bottom: 10px;
 }
-.location02 .area01 .txt02 .bottom {
-  margin-bottom: 20px;
+.location02 .area02 .source {
+  font-size: 14px;
+  line-height: 1.2;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #5d5200;
 }
-.location02 .area01 .mini {
+.location02 .area02 .list01 li {
+  width: 38%;
+}
+.location02 .area02 .list01 li:last-child {
+  width: 57%;
+}
+.location02 .area02 .list02 li {
+  width: 57%;
+}
+.location02 .area02 .list02 li:last-child {
+  width: 38%;
+}
+.location02 .area02 .list03 .name {
+  line-height: 1.8;
+}
+.location02 .area02 .list03 li {
+  width: 71%;
+}
+.location02 .area02 .list03 li:last-child {
+  width: 26%;
+}
+.location02 .area02 .list04 .name {
+  line-height: 1.8;
+}
+.location02 .area02 .list04 li {
+  width: 57%;
+}
+.location02 .area02 .list04 li:last-child {
+  width: 38%;
+}
+.location02 .area03 .inner {
+  max-width: 1000px;
+  margin: auto;
+}
+.location02 .area03 .caps {
+  text-align: right;
+  margin-top: 10px;
+  font-size: 10px;
+}
+.location02 .area03 .lead {
+  text-align: left;
+  margin-bottom: 10px;
+}
+.location02 .area03 .mini {
+  text-align: left;
   font-size: 10px;
   line-height: 1.4;
-}
-.location02 .area01 .img04 {
-  margin-bottom: 50px;
-}
-.location02 .area01 .img04 .annotation {
-  bottom: -15px;
-}
-.location02 .area02 .text {
-  margin-bottom: 20px;
-}
-.location02 .area02 .img01 {
-  margin-bottom: 40px;
-}
-.location02 .area02 .txt01 {
-  font-size: 24px;
-  margin: 20px 0;
-  padding-left: 10px;
-  border-left: 5px solid #1c2c5a;
-}
-.location02 .area02 .txt01 span {
-  font-size: 16px;
-}
-.location02 .area02 .txt02 {
-  font-size: 18px;
-  line-height: 1.8;
-  margin-bottom: 20px;
-}
-.location02 .area02 .column02 {
-  margin-bottom: 20px;
-}
-.location02 .area03 .line {
-  font-size: 24px;
-  line-height: 1.4;
-  color: #fff;
-  padding-left: 20px;
-  box-sizing: border-box;
-  background: #1c2c5a;
-  margin-bottom: 20px;
-}
-.location02 .area03 .line span {
-  font-size: 40px;
-}
-.location02 .area03 .line02 {
-  padding: 6px 0 6px 20px;
-}
-.location02 .area03 .column03 {
-  margin-bottom: 60px;
-}
-.location02 .area03 .column03 .txt {
-  margin-top: 20px;
-}
-.location02 .area03 .column03 .txt.mt {
-  margin-top: 8.5%;
-}
-.location02 .area03 .name {
-  font-size: 17px;
-  margin-top: 6px;
+  margin-bottom: 10px;
 }
 .location02 .area04 {
-  background: #ddf0f3;
-  padding-bottom: 100px;
-  margin-bottom: 0;
-}
-.location02 .area04 .point {
-  position: relative;
-  display: inline-block;
-  font-size: 40px;
-  padding-top: 120px;
-  margin-bottom: 80px;
-}
-.location02 .area04 .point:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 1px;
-  height: 104px;
+  max-width: 1200px;
   margin: auto;
-  background-color: #000;
+  background: #15304b;
+  padding: 60px 0 40px;
 }
 .location02 .area04 .tit {
-  font-size: 27px;
-  line-height: 1.8;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
-  border-bottom: 0.5px solid #000;
+  font-size: 32px;
+  letter-spacing: 0.15em;
+  color: #fff;
+  margin-bottom: 40px;
 }
-.location02 .area04 .annotation {
-  bottom: -20px;
+.location02 .area04 .bg {
+  background: #fff;
+  padding: 30px 0 0;
 }
-.location02 .area04 .list02 .annotation,
-.location02 .area04 .list03 .annotation {
-  bottom: -26px;
+.location02 .area04 .sub {
+  font-size: 22px;
+  letter-spacing: 0.2em;
+  margin-bottom: 30px;
 }
-.location02 .area04 .tit-img {
-  margin-top: 70px;
-  margin-bottom: 20px;
-}
-.location02 .area04 .tit-img.tit01 {
-  margin-top: 90px;
+.location02 .area04 .column02 {
+  width: 90%;
+  margin: 0 auto 40px;
 }
 .location02 .area04 .column02 li {
   vertical-align: middle;
-  display: inline-block;
-  width: 50%;
-  margin-right: 8%;
 }
 .location02 .area04 .column02 li .lead {
-  font-size: 16px;
+  text-align: left;
   margin-bottom: 0;
 }
-.location02 .area04 .column02 li:nth-child(2n),
-.location02 .area04 .column02 li:last-child {
-  width: 40%;
-  margin-right: auto;
-}
-.location02 .area04 .column02.list02 li {
-  width: 50%;
-  margin-right: 3%;
-}
-.location02 .area04 .column02.list02 li:last-child {
-  width: 45%;
-  margin-right: auto;
-}
-.location02 .area04 .column02.list03 li {
-  width: 50%;
-  margin-right: 3%;
-  margin-top: -10px;
-}
-.location02 .area04 .column02.list03 li:last-child {
-  width: 45%;
-  margin-right: auto;
-  margin-top: 0;
+.location02 .area04 .mini {
+  text-align: left;
+  font-size: 10px;
+  line-height: 1.4;
+  color: #fff;
+  margin-top: 10px;
 }
 @media screen and (max-width: 768px) {
   .location02 sp {
@@ -330,11 +316,7 @@
     display: none;
   }
   .location02 .main-visual {
-    padding-bottom: 100px;
-  }
-  .location02 .main-visual .image::after {
-    bottom: -60px;
-    height: 60px;
+    padding-bottom: 0;
   }
   .location02 .sections .column02 li {
     display: block;
@@ -353,125 +335,154 @@
     margin-bottom: auto;
   }
   .location02 .intro {
-    text-align: left;
-    margin-bottom: 40px;
+    background: url(../images/location02/bg.jpg);
+    background-size: cover;
+    padding: 40px 0;
+    margin-bottom: 50px;
   }
   .location02 .intro .tit {
-    font-size: 22px;
-  }
-  .location02 .areas {
-    margin-bottom: 60px;
-  }
-  .location02 .areas .img00 {
+    font-size: 28px;
     margin-bottom: 30px;
   }
-  .location02 .areas .img00 .annotation {
-    bottom: -15px;
-  }
-  .location02 .areas .text {
-    font-size: 20px;
-    line-height: 1.8;
-    margin-bottom: 20px;
-  }
-  .location02 .areas .lead {
-    font-size: 16px;
-    line-height: 2;
-    margin-bottom: 20px;
-  }
-  .location02 .area01 .column02 .bottom {
-    margin-bottom: 20px;
-  }
-  .location02 .area01 .txt01 {
-    font-size: 20px;
-    line-height: 1.5;
-  }
-  .location02 .area02 .img01 {
-    margin-bottom: 20px;
-  }
-  .location02 .area02 .column02 {
-    margin-bottom: 0;
-  }
-  .location02 .area02 .column02 li {
-    margin-bottom: 0;
-  }
-  .location02 .area02 .txt01 {
-    font-size: 20px;
-    margin: 10px 0 40px;
-  }
-  .location02 .area02 .txt01 span {
+  .location02 .intro .lead {
+    text-align: left;
     font-size: 14px;
-  }
-  .location02 .area02 .txt01.mb20 {
-    margin-bottom: 10px;
-  }
-  .location02 .area02 .txt02 {
-    font-size: 16px;
     line-height: 2;
-  }
-  .location02 .area03 .line {
-    font-size: 14px;
-    padding: 10px;
-    margin-bottom: 10px;
-  }
-  .location02 .area03 .line span {
-    font-size: 22px;
-  }
-  .location02 .area03 .line02 {
-    padding: 10px;
-  }
-  .location02 .area03 .column03 {
     margin-bottom: 40px;
   }
-  .location02 .area03 .column03 .txt {
-    margin-top: 10px;
+  .location02 .intro .img02 {
+    margin-top: 40px;
   }
-  .location02 .area03 .column03 .txt.mt {
-    margin-top: 20px;
+  .location02 .intro .mini {
+    line-height: 1.4;
   }
-  .location02 .area03 .name {
+  .location02 .areas {
+    margin-bottom: 40px;
+  }
+  .location02 .areas .tit {
+    font-size: 24px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  .location02 .areas .lead {
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 30px;
+  }
+  .location02 .area01 .text {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .location02 .area01 .img02 {
+    width: 100%;
+    position: relative;
+    right: inherit;
+    margin: 20px auto 0;
+  }
+  .location02 .area01 .img02 .annotation {
+    bottom: 30px;
+    right: 20px;
+  }
+  .location02 .area01 .leaflet-container {
+    background: none;
+  }
+  .location02 .area02 {
+    background: url(../images/location02/area02-bg.jpg);
+    background-size: cover;
+    padding: 40px 0 20px;
+    margin-bottom: 50px;
+  }
+  .location02 .area02 .column02 {
+    margin-bottom: 40px;
+  }
+  .location02 .area02 .name {
+    font-size: 26px;
+  }
+  .location02 .area02 .purpose {
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 20px;
+  }
+  .location02 .area02 .info {
     font-size: 16px;
   }
-  .location02 .area04 {
-    padding-bottom: 60px;
-    margin-bottom: 0;
+  .location02 .area02 .source {
+    font-size: 12px;
   }
-  .location02 .area04 .point {
-    font-size: 30px;
-    padding-top: 60px;
+  .location02 .area02 .list01 li {
+    width: 100%;
+  }
+  .location02 .area02 .list01 li .image {
     margin-bottom: 20px;
   }
-  .location02 .area04 .point:before {
-    height: 50px;
+  .location02 .area02 .list01 li:last-child {
+    width: 100%;
+  }
+  .location02 .area02 .list02 li {
+    width: 100%;
+  }
+  .location02 .area02 .list02 li:last-child {
+    width: 100%;
+  }
+  .location02 .area02 .list03 li {
+    width: 100%;
+  }
+  .location02 .area02 .list03 li .image {
+    width: 60%;
+    margin: 0 auto 20px;
+  }
+  .location02 .area02 .list03 li:last-child {
+    width: 100%;
+  }
+  .location02 .area02 .list04 li {
+    width: 100%;
+  }
+  .location02 .area02 .list04 li:last-child {
+    width: 100%;
+  }
+  .location02 .area04 {
+    padding: 40px 0 40px;
   }
   .location02 .area04 .tit {
-    font-size: 20px;
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+  .location02 .area04 .sub {
+    line-height: 1.5;
+  }
+  .location02 .area04 .column02 {
+    width: 90%;
+    margin: 0 auto 40px;
   }
   .location02 .area04 .column02 li {
+    vertical-align: middle;
+  }
+  .location02 .area04 .column02 li .lead {
+    text-align: left;
+    margin-bottom: 0;
+  }
+}
+@media screen and (max-width: 768px) and (max-width: 768px) {
+  .location02 .swipe-img {
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+  .location02 .swipe-img img {
+    max-width: auto !important;
+    max-width: inherit !important;
+    width: 200% !important;
+  }
+  .location02 .swipe {
     display: block;
-    width: 100%;
-    margin-bottom: 20px;
+    text-align: center;
+    padding: 0 0 20px;
   }
-  .location02 .area04 .column02 li:last-child {
-    width: 100%;
-  }
-  .location02 .area04 .column02.list02 li, .location02 .area04 .column02.list03 li {
-    width: 100%;
-  }
-  .location02 .area04 .column02.list02 li:last-child, .location02 .area04 .column02.list03 li:last-child {
-    width: 100%;
-  }
-  .location02 .area04 .list02 .image.tb {
-    margin-top: 20px;
-  }
-  .location02 .area04 .list02 .annotation {
-    line-height: 1.2;
-    bottom: -30px;
-  }
-  .location02 .area04 .column02.list03 li {
-    margin-top: 0;
-  }
-  .location02 .area04 .column02.list03 .annotation {
-    line-height: 1.2;
-    bottom: -30px;
+  .location02 .swipe img {
+    max-width: 75px;
+    width: 15%;
+    height: auto;
+    margin: auto;
+    pointer-events: none;
   }
 }/*# sourceMappingURL=location02.css.map */
