@@ -29,7 +29,7 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/access/mv.jpg" alt="" class="pc"><img src="./images/access/mv-sp.jpg" alt="" class="tb"><p class="annotation white">Image photo 田町駅芝浦口（約750m／徒歩10分）</p></div>
+   <div class="image"><img src="./images/access/mv.jpg" alt="" class="pc"><img src="./images/access/mv-sp.jpg" alt="" class="tb"><p class="annotation white">image photo 田町駅芝浦口（約1,080m／徒歩14分）</p></div>
     <div class="bg">
       <div class="wrap">
       <p class="tit">ACCESS</p>
@@ -42,7 +42,7 @@
   
   <section class="intro sections clearfix">
     <div class="inner">
-      <p class="lead">JR「田町」駅から山手線と京浜東北線を使いこなす。<br>さらに都営三田線・浅草線の「三田」駅も利用可能。<br>品川・東京・大手町などの主要駅が直通10分以内でつながります。</p>
+      <p class="lead">JR「田町」駅から山手線と京浜東北線を使いこなす。<br>さらに都営三田線・浅草線の「三田」駅も利用可能。<br>品川・東京などの主要駅が直通10分以内でつながります。</p>
       <div class="image img01">
         <div class="swipe-img right-start modify-starts">
           <img src="images/access/intro01.png" alt="路線図" />
@@ -101,7 +101,7 @@
       <h3 class="tit">「品川」駅、羽田空港を利用することで旅行や出張を快適に。</h3>
       <ul class="column02 clearfix">
         <li>
-          <p class="text">現地から徒歩10分のJR山手線「田町」駅より</p>
+          <p class="text">現地から徒歩14分のJR山手線「田町」駅より</p>
           <div class="txt">
             <img src="./images/access/network01.svg" alt="">
           </div>
