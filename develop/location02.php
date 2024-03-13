@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">CITY TOWER THE RAINBOW　海岸 新築マンション｜トップ</a></li>
+      <li><a href="./index.html">CITY TOWER THE RAINBOW｜芝浦 マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
       <li><p>進化するアーバンステージ</p></li>
     </ul>
@@ -35,14 +35,14 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location02/mv.jpg" alt="" class="pc"><img src="./images/location02/mv-sp.jpg" alt="" class="tb"><p class="annotation white">多摩川ガス橋緑地（A:徒歩5分／B:徒歩6分）</p></div>
+   <div class="image"><img src="./images/location02/mv.jpg" alt="" class="pc"><img src="./images/location02/mv-sp.jpg" alt="" class="tb"><p class="annotation white">航空写真</p></div>
   </header><!-- main-visual -->
 
 
   <section class="intro sections clearfix">
     <div class="inner">
       <p class="tit">芝浦、高輪、<br class="sp">芝、麻布、赤坂。<br>それぞれの街の個性が、<br class="sp">日々を豊かに<br class="sp">彩ってくれる。</p>
-      <p class="lead">「CITY TOWER THE RAINBOW」に住まいを構えること。<br>それは、港区を日常のフィールドとする自由を手にすること。<br>ビジネスもレジャーも、都市も自然も、伝統も未来も。<br>これらにつながるポジションが、豊かな都市生活を演出します。</p>
+      <p class="lead">「CITY TOWER THE RAINBOW」に住まいを構えること。<br class="pc">それは、港区を日常のフィールドとする自由を手にすること。<br class="pc">ビジネスもレジャーも、都市も自然も、伝統も未来も。<br>これらにつながるポジションが、豊かな都市生活を演出します。</p>
         <div class="image">
           <figure class="pc"><img src="./images/location02/intro01.png" class="sp-hide" alt="SHOPPING"></figure>
           <figure class="tb"><img src="./images/location02/intro01.png" class="zoomImg tb" alt=""/></figure>
@@ -63,8 +63,8 @@
       <p class="text">「品川」駅のリニア中央新幹線開業（予定）を見据え、<br>日本の成長を牽引する国際交流拠点へ。</p>
       <p class="lead">芝浦・港南を含むこのエリアは、日本の未来を切り拓く重要な拠点として急速に発展しており、<br class="pc">「品川」駅リニア中央新幹線の開業（予定）を見越して、国際的な交流とイノベーションの中心地としての役割を強化しています。<br>また本物件近くは広い歩道が整備され、それに続く美しい並木道が、毎日の生活に充実感と安らぎを与えてくれます。</p>
       <div class="image">
-        <figure class="pc"><img src="./images/location02/area01-01.png" class="sp-hide" alt="SHOPPING"></figure>
-        <figure class="tb"><img src="./images/location02/area01-01.png" class="zoomImg tb" alt=""/></figure>
+        <figure class="pc"><img src="./images/location02/area01-01.jpg" class="sp-hide" alt="SHOPPING"></figure>
+        <figure class="tb"><img src="./images/location02/area01-01.jpg" class="zoomImg tb" alt=""/></figure>
         <p class="annotation">■立地概念図</p>
           <div class="image img02 pc">
             <img src="./images/location02/area01-02.png">
@@ -208,7 +208,7 @@
 
 
 <div class="annotation-area">
-<p class="page-annotation js-scroll wrap clearfix">※掲載の航空写真は六本木付近上空から南西方面を撮影（2023年11月）したものです。また、周辺環境は将来変わる場合があります。<br>※掲載の広域エリア概念図・立地概念図は一部道路・施設等を抜粋して表記しています。<br>※掲載の羽田空港アクセス線ルート図・リニア中央新幹線路線図は一部駅・路線等を抜粋して表記しています。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。<br>※掲載の環境写真は2023年12月に撮影。<br>※掲載の情報は2023年12月現在のものです。</p></div>
+<p class="page-annotation js-scroll wrap clearfix">※掲載の航空写真は六本木付近上空から南西方面を撮影（2023年11月）したものです。また、周辺環境は将来変わる場合があります。<br>※掲載の広域エリア概念図・立地概念図は一部道路・施設等を抜粋して表記しています。<br>※掲載の羽田空港アクセス線ルート図・リニア中央新幹線路線図は一部駅・路線等を抜粋して表記しています。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを1分として算出し、端数を切り上げたものです。<br>※掲載の環境写真は2023年12月に撮影。<br>※掲載の情報は2023年12月現在のものです。</p></div>
 </main>
 
   <div class="location-link location-link--2">

@@ -114,11 +114,11 @@
   #concept pc {
     display: none;
   }
-  #concept .main-visual .annotation {
-    bottom: 40px;
+  #concept .main-visual {
+    margin-bottom: 50px;
   }
   #concept .intro {
-    padding: 60px 20px 0;
+    padding: 0 20px;
   }
   #concept .intro .title {
     font-size: 22px;

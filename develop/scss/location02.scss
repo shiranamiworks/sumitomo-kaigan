@@ -101,6 +101,7 @@
     .annotation {
       font-size: 10px;
       text-align: right;
+      z-index: 1000;
     }
     .column02 {
       li {
@@ -407,6 +408,11 @@
         font-size: 24px;
         margin-bottom: 30px;
       }
+      .image .leaflet-top{
+        left: auto;
+        right: 10px;
+        bottom: 30px;
+      }
       .img02 {
         width: 100%;
         position: relative;
@@ -518,7 +524,7 @@
       .swipe {
         display: block;
         text-align: center;
-        padding: 0 0 20px;
+        padding: 20px 0;
       }
       .swipe img {
         max-width: 75px;

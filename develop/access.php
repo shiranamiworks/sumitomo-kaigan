@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">CITY TOWER THE RAINBOW　海岸 新築マンション｜トップ</a></li>
+      <li><a href="./index.html">CITY TOWER THE RAINBOW｜芝浦 マンション｜トップ</a></li>
       <li><p>アクセス</p></li>
     </ul>
   </div>

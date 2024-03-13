@@ -95,6 +95,7 @@
 .location02 .sections .annotation {
   font-size: 10px;
   text-align: right;
+  z-index: 1000;
 }
 .location02 .sections .column02 li {
   vertical-align: top;
@@ -371,6 +372,11 @@
     font-size: 24px;
     margin-bottom: 30px;
   }
+  .location02 .area01 .image .leaflet-top {
+    left: auto;
+    right: 10px;
+    bottom: 30px;
+  }
   .location02 .area01 .img02 {
     width: 100%;
     position: relative;
@@ -473,7 +479,7 @@
   .location02 .swipe {
     display: block;
     text-align: center;
-    padding: 0 0 20px;
+    padding: 20px 0;
   }
   .location02 .swipe img {
     max-width: 75px;

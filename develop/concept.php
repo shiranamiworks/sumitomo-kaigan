@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">CITY TOWER THE RAINBOW　海岸 新築マンション｜トップ</a></li>
+      <li><a href="./index.html">CITY TOWER THE RAINBOW｜芝浦 マンション｜トップ</a></li>
       <li><p>コンセプト</p></li>
     </ul>
   </div>
@@ -33,7 +33,7 @@
   </header><!-- main-visual -->
 
   <div class="intro">
-    <p class="title tb">都心の穏やかなシーサイドに、<br>かけがえのない風景と暮らす天空のオアシスを。</p>
+    <p class="title tb">都心の穏やかなシーサイドに、<br>かけがえのない風景と暮らす<br class="sp">天空のオアシスを。</p>
     <p class="lead tb">港区の湾岸エリアの一角を成す海岸三丁目。<br>そこはまるで都心のオアシスのよう。<br>上質な暮らし心地をもたらす穏やかな海辺に、<br class="pc">新たなランドマークとなる大規模タワーレジデンスが姿を現す。<br>海と空とレインボーブリッジが美しい湾岸の景。<br>かけがえのない安らぎに包まれて、<br class="pc">今、人生の彩りが深まっていく。</p>
   </div>
 

@@ -347,7 +347,7 @@
   #access .swipe {
     display: block;
     text-align: center;
-    padding: 0 0 20px;
+    padding: 20px 0;
   }
   #access .swipe img {
     max-width: 75px;
@@ -383,7 +383,7 @@
   }
   #access .intro .column03.list01 li {
     float: left;
-    width: 33.333%;
+    width: 100%;
     margin: auto;
   }
   #access .intro .text {

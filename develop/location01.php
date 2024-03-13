@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">CITY TOWER THE RAINBOW　海岸 新築マンション｜トップ</a></li>
+      <li><a href="./index.html">CITY TOWER THE RAINBOW｜芝浦 マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
       <li><p>人生を解き放つシーサイド</p></li>
     </ul>
@@ -35,12 +35,12 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location01/mv.png" alt="" class="pc"><img src="./images/location01/mv-sp.jpg" alt="" class="tb"><p class="annotation">レインボーブリッジ（約430m／徒歩6分）</p></div>
+   <div class="image"><img src="./images/location01/mv.png" alt="" class="pc"><img src="./images/location01/mv-sp.png" alt="" class="tb"><p class="annotation">レインボーブリッジ（約430m／徒歩6分）</p></div>
    <div class="bg">
       <div class="wrap">
       <p class="tit">LOCATION</p>
       <p class="text">穏やかな海辺から<br class="sp">広がる日々</p>
-      <p class="lead">穏やかな海辺に安らぎながら、煌めく都心の恵みを思いのままに味わい尽くす日々。<br>普段の日も特別な日も充実する羨望のロケーションがここにあります。</p>
+      <p class="lead">穏やかな海辺に安らぎながら、<br class="sp">煌めく都心の恵みを思いのままに<br class="sp">味わい尽くす日々。<br>普段の日も特別な日も充実する<br class="sp">羨望のロケーションがここにあります。</p>
       </div>
     </div>
   </header><!-- main-visual -->
@@ -153,11 +153,11 @@
           <div class="images sp">
             <div class="image img01">
               <img src="./images/location01/area02-01.jpg">
-              <p class="annotation white">芝浦クリニック（約710m／徒歩9分）</p>
+              <p class="annotation white">芝浦クリニック<br class="sp">（約710m／徒歩9分）</p>
             </div>
             <div class="image">
               <img src="./images/location01/area02-02.jpg">
-              <p class="annotation white">東京港診療所（約160m／徒歩2分）</p>
+              <p class="annotation white">東京港診療所<br class="sp">（約160m／徒歩2分）</p>
             </div>
           </div>
         </li>
@@ -174,7 +174,7 @@
     <div class="bg02">
       <div class="image">
         <img src="./images/location01/area03-bg02.png" class="">
-        <p class="annotation white">ツキ シュール ラメール<br>（約1,670m／徒歩21分）</p>
+        <p class="annotation white">ツキ シュール ラメール<br class="pc">（約1,670m／徒歩21分）</p>
       </div>
     <div class="inner">
       <p class="tit">GOURMET</p>
@@ -183,7 +183,7 @@
         <li>
           <div class="image">
             <img src="./images/location01/area03-01.jpg" class="">
-            <p class="annotation">提供写真</p>
+            <p class="annotation bl">提供写真</p>
           </div>
           <div class="texts">
             <p class="category">［フレンチ・江戸前寿司］</p>
@@ -246,7 +246,7 @@
         <li>
           <div class="image">
             <img src="./images/location01/area03-08.jpg" class="">
-            <p class="annotation">提供写真</p>
+            <p class="annotation bl">提供写真</p>
           </div>
           <div class="texts">
             <p class="category">［バーベキューレストラン］</p>
@@ -271,7 +271,7 @@
     <img src="./images/location01/info-map.jpg" class="">
     </div>
     <div class="image info">
-    <img src="./images/location01/info-txt.svg" class="">
+    <img src="./images/location01/info-txt.svg" class="pc"> <img src="./images/location01/info-txt-sp.svg" class="tb">
     </div>
     </div>
   </section>

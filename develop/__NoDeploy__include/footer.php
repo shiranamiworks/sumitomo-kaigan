@@ -39,15 +39,15 @@
   <div class="footer-recommend">
     <div class="container">
       <ul class="footer-recommend__menu f-min">
-        <li>港区 マンション</li>
-        <li>港区 新築マンション</li>
+        <li>芝浦 マンション</li>
+        <li>芝浦 新築マンション</li>
         <li>CITY TOWER THE RAINBOW</li>
         <li>東京都港区</li>
-        <li>都営三田線</li>
-        <li>三田駅</li>
+        <li>JR山手線</li>
+        <li>田町</li>
         <li>新築分譲マンション</li>
         <li>住友不動産</li>
-        <li>すみふ</li>
+        <li>すみふ　芝浦</li>
       </ul>
 
       <!-- おススメ物件 -->

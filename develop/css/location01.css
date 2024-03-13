@@ -116,10 +116,14 @@
 }
 .location01 .sections .image {
   position: relative;
+  line-height: 0;
 }
 .location01 .sections .annotation {
   font-size: 10px;
   text-align: right;
+}
+.location01 .sections .annotation.bl {
+  color: #000;
 }
 .location01 .sections .column02 li {
   vertical-align: top;
@@ -143,17 +147,20 @@
 }
 .location01 .intro {
   text-align: center;
+  margin-top: -2px;
 }
 .location01 .intro .image {
   position: relative;
+  line-height: 0;
 }
 .location01 .intro .img-txt {
   text-align: left;
   position: absolute;
   top: 14%;
   left: 6%;
-  font-size: 30px;
+  font-size: 22px;
   line-height: 2.2;
+  letter-spacing: 0.1em;
 }
 .location01 .intro .img-txt.txt02 {
   text-align: left;
@@ -161,8 +168,9 @@
   top: 18%;
   left: auto;
   right: 8%;
-  font-size: 30px;
+  font-size: 22px;
   line-height: 2.2;
+  letter-spacing: 0.1em;
 }
 .location01 .intro .bg {
   max-width: 1200px;
@@ -180,7 +188,7 @@
   margin-bottom: 50px;
 }
 .location01 .intro .bg .lead {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 2;
   margin-top: 40px;
 }
@@ -213,6 +221,7 @@
 .location01 .area01 .shops .column02 li {
   text-align: left;
   width: 40%;
+  vertical-align: bottom;
 }
 .location01 .area01 .shops .column02 li:last-child {
   width: 56%;
@@ -252,6 +261,9 @@
 .location01 .area03 {
   max-width: 1200px;
   margin: 0 auto 100px;
+}
+.location01 .area03 .bg01 {
+  line-height: 0;
 }
 .location01 .area03 .bg02 {
   background: #070918;
@@ -321,7 +333,7 @@
     padding-bottom: 0;
   }
   .location01 .main-visual .bg {
-    background: url(../images/location01/bg.jpg) center;
+    background: url(../images/location01/bg.png) center;
     background-size: cover;
     padding: 40px 0;
     box-sizing: border-box;
@@ -420,11 +432,13 @@
     font-size: 26px;
   }
   .location01 .area01 .shops .min {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
   .location01 .area01 .shops .column02 li {
     text-align: left;
     width: 100%;
+    margin-right: 0;
+    margin-bottom: 60px;
   }
   .location01 .area01 .shops .column02 li:last-child {
     width: 100%;
@@ -441,6 +455,9 @@
   .location01 .area01 .shop02 .column02 li {
     text-align: left;
     width: 100%;
+  }
+  .location01 .area01 .shop02 .column02 li:first-child {
+    margin-bottom: 20px;
   }
   .location01 .area01 .shop02 .column02 li:last-child {
     width: 100%;
@@ -468,11 +485,18 @@
     display: inline-block;
     width: 49%;
   }
+  .location01 .area02 .column02 .images .image .annotation {
+    line-height: 1.4;
+    bottom: 5px;
+  }
   .location01 .area03 {
     margin: 0 auto 50px;
   }
   .location01 .area03 .bg02 {
     padding-bottom: 20px;
+  }
+  .location01 .area03 .bg02 .inner {
+    margin-top: 50px;
   }
   .location01 .area03 .bg02 .text {
     font-size: 24px;
@@ -493,5 +517,8 @@
   }
   .location01 .life-info .map {
     margin-bottom: 20px;
+  }
+  .location01 .life-info .info img {
+    width: 100%;
   }
 }/*# sourceMappingURL=location01.css.map */

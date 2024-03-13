@@ -118,10 +118,14 @@
     }
     .image {
       position: relative;
+      line-height: 0;
     }
     .annotation {
       font-size: 10px;
       text-align: right;
+      &.bl{
+        color: #000;
+      }
     }
     .column02 {
       li {
@@ -150,16 +154,19 @@
   } //sections
   .intro {
     text-align: center;
+    margin-top: -2px;
     .image {
       position: relative;
+      line-height: 0;
     }
     .img-txt {
       text-align: left;
       position: absolute;
       top: 14%;
       left: 6%;
-      font-size: 30px;
+      font-size: 22px;
       line-height: 2.2;
+      letter-spacing: .1em;
     }
     .img-txt.txt02 {
       text-align: left;
@@ -167,8 +174,9 @@
       top: 18%;
       left: auto;
       right: 8%;
-      font-size: 30px;
+      font-size: 22px;
       line-height: 2.2;
+      letter-spacing: .1em;
     }
     .bg {
       max-width: 1200px;
@@ -188,7 +196,7 @@
       margin-bottom: 50px;
     }
     .bg .lead {
-      font-size: 18px;
+      font-size: 16px;
       line-height: 2;
       margin-top: 40px;
     }
@@ -223,6 +231,7 @@
         li {
           text-align: left;
           width: 40%;
+          vertical-align: bottom;
         }
         li:last-child {
           width: 56%;
@@ -271,6 +280,9 @@
   .area03 {
     max-width: 1200px;
     margin: 0 auto 100px;
+    .bg01{
+      line-height: 0;
+    }
     .bg02 {
       background: #070918;
       color: #fff;
@@ -347,7 +359,7 @@
     .main-visual {
       padding-bottom: 0;
       .bg {
-        background: url(../images/location01/bg.jpg) center;
+        background: url(../images/location01/bg.png) center;
         background-size: cover;
         padding: 40px 0;
         box-sizing: border-box;
@@ -455,12 +467,14 @@
           font-size: 26px;
         }
         .min {
-          margin-bottom: 20px;
+          margin-bottom: 10px;
         }
         .column02 {
           li {
             text-align: left;
             width: 100%;
+            margin-right: 0;
+            margin-bottom: 60px;
           }
           li:last-child {
             width: 100%;
@@ -481,6 +495,9 @@
           li {
             text-align: left;
             width: 100%;
+            &:first-child{
+              margin-bottom: 20px;
+            }
           }
           li:last-child {
             width: 100%;
@@ -509,6 +526,10 @@
           .image {
             display: inline-block;
             width: 49%;
+            .annotation{
+              line-height: 1.4;
+              bottom: 5px;
+            }
           }
         }
       }
@@ -517,6 +538,9 @@
       margin: 0 auto 50px;
       .bg02 {
         padding-bottom: 20px;
+        .inner{
+          margin-top: 50px;
+        }
         .text {
           font-size: 24px;
           line-height: 1.8;
@@ -541,6 +565,11 @@
       }
       .map {
         margin-bottom: 20px;
+      }
+      .info{
+        img{
+          width: 100%;
+        }
       }
     } //life-info
   } //sp
