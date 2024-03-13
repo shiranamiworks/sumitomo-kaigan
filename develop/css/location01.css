@@ -63,6 +63,7 @@
 .location01 .image .annotation.white {
   color: #fff;
   text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+  line-height: 1.6;
 }
 .location01 .location-link {
   color: #000;

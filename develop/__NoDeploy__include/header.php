@@ -15,7 +15,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="keywords" content="<?= $page_settings["keywords"] ?>CITY TOWER THE RAINBOW,芝浦 マンション,芝浦 新築マンション,芝浦,田町,JR山手線,東京都港区,マンション,新築マンション,分譲マンション,住友不動産">
 <meta name="description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩14分。住友不動産の新築マンションが芝浦に誕生。【すみふ　芝浦】東京都港区のマンションなら住友不動産。">
-<title><?= $page_settings["title"] ?>【【公式】CITY TOWER THE RAINBOW｜芝浦の新築マンション｜住友不動産</title>
+<title><?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜芝浦の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="<?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜芝浦の新築マンション｜住友不動産">

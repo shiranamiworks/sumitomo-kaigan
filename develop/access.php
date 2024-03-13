@@ -72,7 +72,7 @@
           </div>
         </li>
       </ul>
-      <p class="text">現地から徒歩10分のJR山手線「田町」駅より</p>
+      <p class="text">現地から徒歩14分のJR山手線「田町」駅より</p>
       <ul class="column03 list02 clearfix">
         <li>
           <div class="image">
