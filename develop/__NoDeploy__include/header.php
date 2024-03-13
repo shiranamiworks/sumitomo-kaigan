@@ -14,14 +14,14 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="keywords" content="<?= $page_settings["keywords"] ?>CITY TOWER THE RAINBOW,芝浦 マンション,芝浦 新築マンション,芝浦,田町,JR山手線,東京都港区,マンション,新築マンション,分譲マンション,住友不動産">
-<meta name="description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩14分。住友不動産の新築マンションが芝浦に誕生。【すみふ　芝浦】東京都港区のマンションなら住友不動産。">
+<meta name="description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町駅」から徒歩14分。住友不動産の新築マンションが芝浦に誕生。【すみふ　芝浦】東京都港区のマンションなら住友不動産。">
 <title><?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜芝浦の新築マンション｜住友不動産</title>
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="<?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜芝浦の新築マンション｜住友不動産">
-<meta property="og:description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町」から徒歩14分。住友不動産の新築マンションが芝浦に誕生。【すみふ　芝浦】東京都港区のマンションなら住友不動産。">
+<meta property="og:description" content="<?= $page_settings["description"] ?>JR山手線・JR京浜東北線「田町駅」から徒歩14分。住友不動産の新築マンションが芝浦に誕生。【すみふ　芝浦】東京都港区のマンションなら住友不動産。">
 <meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】CITY TOWER THE RAINBOW｜芝浦の新築マンション｜住友不動産">
-<meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
+<meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogimage.jpg" />
 
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <!-- <link rel="icon" href="<?= $page_settings["directory_pos"]  ?>images/favicon.ico" alt="" id="favicon"> -->
@@ -76,7 +76,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     <h1 class="header-logo">
       <a href="index.html">
         <figure><img src="<?= $page_settings["directory_pos"]  ?>images/common/logo-pc.png" alt=""></figure>
-        <p>田町徒歩14分｜CITY TOWER THE RAINBOW｜芝浦 新築マンション｜<?= $page_settings["logo_text"]  ?>芝浦｜住友不動産</p>
+        <p>田町駅徒歩14分｜CITY TOWER THE RAINBOW｜芝浦 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ 芝浦｜住友不動産</p>
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">

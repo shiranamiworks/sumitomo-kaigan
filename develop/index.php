@@ -20,7 +20,7 @@
 <main>
   <div class="top-mv">
     <figure class="pc"><img src="./images/top/mv-pc.jpg" alt="" class="w_100"></figure>
-      <div class="top-mv__slide tb">
+      <div class="tb">
         <figure><img src="./images/top/mv-sp.jpg" alt="" class="w_100"></figure>
       </div>
    </div><!--//top-mv -->
