@@ -6,7 +6,7 @@
 $site_setting = array(
   "area" => "shuto",
   "prop" => "kaigan",
-  "tel_link" => "tel:0120366433",
+  "tel_link" => "tel:0120112507",
   "meta_link" => "https://www.sumitomo-rd-mansion.jp/gallery/",
   "requested_only" => "#requested_only",
 );
