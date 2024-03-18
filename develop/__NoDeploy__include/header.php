@@ -21,7 +21,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 <meta property="og:title" content="<?= $page_settings["title"] ?>yŒöŽ®zCITY TOWER THE RAINBOWbŽÅ‰Y‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®ŽY">
 <meta property="og:description" content="<?= $page_settings["description"] ?>JRŽRŽèüEJR‹ž•l“Œ–küu“c’¬‰wv‚©‚ç“k•à14•ªBZ—F•s“®ŽY‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ªŽÅ‰Y‚É’a¶By‚·‚Ý‚Ó@ŽÅ‰Yz“Œ‹ž“s`‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®ŽYB">
 <meta property="og:site_name" content="<?= $page_settings["title"] ?>yŒöŽ®zCITY TOWER THE RAINBOWbŽÅ‰Y‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®ŽY">
-<meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogimage.jpg" />
+<meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <!-- <link rel="icon" href="<?= $page_settings["directory_pos"]  ?>images/favicon.ico" alt="" id="favicon"> -->
