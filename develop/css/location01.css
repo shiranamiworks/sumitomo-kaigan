@@ -323,6 +323,9 @@
 .location01 .life-info .map {
   margin-bottom: 40px;
 }
+.location01 .life-info .info img {
+  width: 100%;
+}
 @media screen and (max-width: 768px) {
   .location01 sp {
     display: block;
