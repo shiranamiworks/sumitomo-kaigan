@@ -73,6 +73,13 @@
 #design pc {
   display: block;
 }
+#design .title {
+  font-size: 3rem;
+  text-align: center;
+  color: #fff;
+  margin: 0 auto 50px;
+  letter-spacing: 0.1em;
+}
 #design .content {
   max-width: 1200px;
   width: 94%;
@@ -102,6 +109,24 @@
   letter-spacing: 0.15em;
   color: #fff;
   filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.7));
+}
+#design .content .slick-img .caption.right {
+  left: auto;
+  right: 1%;
+  bottom: 1%;
+  font-size: 10px;
+}
+#design .content .slick-img .caption.right01 {
+  left: auto;
+  right: 54%;
+}
+#design .content .slick-img .caption.right02 {
+  left: auto;
+  right: 69%;
+}
+#design .content .slick-img .caption.right03 {
+  left: auto;
+  right: 73%;
 }
 #design .content .slick-list, #design .content .slick-track {
   display: block;
@@ -178,5 +203,17 @@
   }
   #design .content .thumbnail-img.mr0-sp {
     margin-right: 0;
+  }
+  #design .content .slick-img .caption {
+    font-size: 1.8rem;
+  }
+  #design .content .slick-img .caption.right01 {
+    right: 30%;
+  }
+  #design .content .slick-img .caption.right02 {
+    right: 52%;
+  }
+  #design .content .slick-img .caption.right03 {
+    right: 53%;
   }
 }/*# sourceMappingURL=design.css.map */
